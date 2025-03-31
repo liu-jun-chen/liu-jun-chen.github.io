@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +46,13 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+Hi everyone! I'm Junchen Liu (刘俊辰), a second-year master's student from [Machine Learning Department](https://mbzuai.ac.ae/research-department/machine-learning-department/), [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/). I obtained my bachelor degree from [School of Automation Science and Engineering](https://www2.scut.edu.cn/automation/), [South China University of Technology](https://www.scut.edu.cn/new/). My research interest targeting on efficient machine learning.
+
+I feel honored to be advised by [Dr. Samuel Horvath](https://sites.google.com/view/samuelhorvath/home) and [Dr. Tongliang Liu](https://tongliang-liu.github.io/) from [Machine Learning Department](https://mbzuai.ac.ae/research-department/machine-learning-department/), [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/). I was advised by [Dr. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/) from School of Computer Science and Engineering, [Nanyang Technical University](https://www.ntu.edu.sg/).
+
+You can find my CV here: [Junchen's Curriculum Vitae](../assets/CV_Junchen_Liu.pdf).
+
+[Email](mailto:junchen.liu@mbzuai.ac.ae) / [Github](https://github.com/liu-jun-chen) 
+————————————————
