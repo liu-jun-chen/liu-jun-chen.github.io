@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junchen/Personal Homepage"
+title                    : "Junchen's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Junchen Liu"
 description              : &description "a second-year machine learning student at MBZUAI"
