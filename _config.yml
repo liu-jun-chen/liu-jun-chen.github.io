@@ -22,7 +22,7 @@ repository               : "liu-jun-chen/liu-jun-chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Junchen_photo.png"
+  avatar           : "Photo_Junchen.png"
   name             : "Junchen Liu"
   pronouns         : # example: "she/her"  
   bio              : "Hi, I am a second-year machine learning student at MBZUAI"
