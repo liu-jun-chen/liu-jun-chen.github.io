@@ -48,11 +48,11 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-Hi everyone! I'm Junchen Liu (刘俊辰), a second-year master's student in Machine Learning Department, at [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/). I obtained Bachelor's degree from [School of Automation Science and Engineering](https://www2.scut.edu.cn/automation/), [South China University of Technology](https://www.scut.edu.cn/new/). My research mainly focus on efficient machine learning.
+Hi everyone! I'm Junchen Liu (刘俊辰), a first-year PhD student in Bellini College of AI, Cybersecurity and Computing, at [University of South Florida](https://www.usf.edu/). I obtained Master's degree and Bachelor's degree from Machine Learning Department, [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), [School of Automation Science and Engineering](https://www2.scut.edu.cn/automation/), [South China University of Technology](https://www.scut.edu.cn/new/) respectively. My research mainly focus on efficient machine learning.
 
-I feel honored to be advised by [Dr. Samuel Horvath](https://sites.google.com/view/samuelhorvath/home) and [Dr. Tongliang Liu](https://tongliang-liu.github.io/) at [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/). I was advised by [Dr. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/) from School of Computer Science and Engineering, [Nanyang Technical University](https://www.ntu.edu.sg/).
+I feel honored to be advised by [Dr. Yi Sheng](https://shengy10.github.io/). I was advised by [Dr. Samuel Horvath](https://sites.google.com/view/samuelhorvath/home), [Dr. Tongliang Liu](https://tongliang-liu.github.io/) at [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) and [Dr. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/) from School of Computer Science and Engineering, [Nanyang Technical University](https://www.ntu.edu.sg/).
 
 You can find my [CV](../assets/CV_Junchen_Liu.pdf) here.
 
-[Email](mailto:junchen.liu@mbzuai.ac.ae) / [Github](https://github.com/liu-jun-chen) 
+[Email](mailto:junchen@usf.edu) / [Github](https://github.com/liu-jun-chen) 
 ————————————————

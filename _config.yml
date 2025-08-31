@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Junchen's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Junchen Liu"
-description              : &description "a second-year machine learning student at MBZUAI"
+description              : &description "first-year CS PhD student at USF"
 url                      : https://liu-jun-chen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liu-jun-chen/liu-jun-chen.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "Photo_Junchen.png"
   name             : "Junchen Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Hi, I am a second-year machine learning student at MBZUAI"
-  location         : "Abu Dhabi, U.A.E."
-  employer         : "Mohamed bin Zayed University of AI"
+  bio              : "Hi, I am a first-year CS PhD student at USF"
+  location         : "Tampa, FL"
+  employer         : "University of South Florida"
   uri              : # URL
-  email            : "junchen.liu@mbzuai.ac.ae" 
+  email            : "junchen@usf.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
